@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AulaAndroid-AsyncLV</string>
+    <string name="baixar_imagem">Baixar Imagem</string>
+    <string name="exemplo_runonuithread">Exemplo runOnUiThread</string>
+</resources>
